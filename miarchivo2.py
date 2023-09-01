@@ -1,1 +1,1 @@
-print('Este es el segundo archivo, me resingo en el recontracono de el corazon de tu puraa, es jodedera ajajaja')
+print('\x1b[1;32mEste es el segundo archivo, me resingo en el recontracono de el corazon de tu puraa, es jodedera ajajaja')
