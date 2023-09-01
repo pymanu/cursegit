@@ -1,1 +1,1 @@
-print('Este es el segundo archivo, me resingo en el recontracono de el corazon de tu puraa')
+print('Este es el segundo archivo, me resingo en el recontracono de el corazon de tu puraa, es jodedera ajajaja')
